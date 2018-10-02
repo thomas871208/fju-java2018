@@ -8,8 +8,8 @@ public class Hello {
 		int schoolYear;
 		System.out.println("weight");
 		System.out.println("name");
-		float weight = 64.5f
-				
+		float weight = 64.5f;
+		int age= 19;		
 	}
 
 }
